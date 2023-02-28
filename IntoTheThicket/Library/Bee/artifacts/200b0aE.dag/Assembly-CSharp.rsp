@@ -349,6 +349,13 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
 "Assets/Scripts/Manager/gameManager.cs"
+"Assets/Scripts/MapGenerator/MapDisplay.cs"
+"Assets/Scripts/MapGenerator/MapGenerator.cs"
+"Assets/Scripts/MapGenerator/MapGeneratorEditor/MapGeneratorEditor.cs"
+"Assets/Scripts/MapGenerator/MeshGenerator.cs"
+"Assets/Scripts/MapGenerator/Noise.cs"
+"Assets/Scripts/MapGenerator/TextureGenerator.cs"
+"Assets/Scripts/Player/animationStateController.cs"
 "Assets/Scripts/Player/cameraControls.cs"
 "Assets/Scripts/Player/playerController.cs"
 -langversion:9.0

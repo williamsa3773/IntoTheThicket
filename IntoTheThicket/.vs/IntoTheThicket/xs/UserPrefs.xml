@@ -1,8 +1,15 @@
 ﻿<Properties StartupConfiguration="{BF07187C-3A7C-B8DD-1878-D6DC23649AE0}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Player/cameraControls.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/MapGenerator/MapDisplay.cs">
     <Files>
-      <File FileName="Assets/Scripts/Player/playerController.cs" Line="38" Column="30" />
-      <File FileName="Assets/Scripts/Player/cameraControls.cs" Line="5" Column="44" />
+      <File FileName="Assets/Scripts/Player/playerController.cs" Line="50" Column="20" />
+      <File FileName="Assets/Scripts/Player/cameraControls.cs" Line="39" Column="54" />
+      <File FileName="Assets/Scripts/Player/animationStateController.cs" Line="56" Column="22" />
+      <File FileName="Assets/Scripts/Terrain/Noise.cs" Line="40" Column="50" />
+      <File FileName="Assets/Scripts/Terrain/MapGenerator.cs" Line="46" Column="32" />
+      <File FileName="Assets/Scripts/MapGenerator/MapGeneratorEditor/MapGeneratorEditor.cs" Line="18" Column="34" />
+      <File FileName="Assets/Scripts/MapGenerator/TextureGenerator.cs" Line="14" Column="24" />
+      <File FileName="Assets/Scripts/MapGenerator/MeshGenerator.cs" Line="19" Column="44" />
+      <File FileName="Assets/Scripts/Terrain/MapDisplay.cs" Line="10" Column="1" NotebookId="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
